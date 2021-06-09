@@ -1,3 +1,8 @@
+// WARNING
+// This is one of the first tweaks I ever wrote, when I was first learning obj-c
+// DO NOT use Layout subviews for stuff like this. And you don't need to iterate through subviews like I did here :)
+
+
 #include <Foundation/Foundation.h>
 #include <UIKit/UIKit.h>
 
